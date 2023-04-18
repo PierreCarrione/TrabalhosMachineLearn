@@ -1,9 +1,11 @@
 # Trabalhos da disciplina de Aprendizado de Máquina
- Esses scripts foram desenvolvidos por mim para alguns trabalhos da disciplina de Aprendizado de Máquina.
+ Alguns scripts foram desenvolvidos por mim e outros foram utilizados bibliotecas do python para a realização de alguns trabalhos da disciplina de Aprendizado de Máquina.
  
-  * Distancia Edicao
-    * Esse programa retorna o cálculo da distância de edição entre duas string passadas. "A distância Levenshtein ou distância de edição entre dois "strings" (duas sequências de caracteres) é dada pelo número mínimo de operações necessárias para transformar um string no outro. Entendemos por "operações" a inserção, deleção ou substituição de um carácter."(https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_Levenshtein, Acessado em 18/04/2023)
-  * Preditor de Palavras
-    * Esse programa retorna as 10 primeiras palavras com a maior % de ocorrer em um dado texto. Para o cálculo da frequência das palavras foi utilizado a técnica 2-gram. O dataset para exemplo foi o Emma.
-  * TestTwitter
-    * Esse programa faz uso de expressões regulares para fazer a busca de determinadas palavra(s). Essa busca foi feita dentro de tweets, extraídos a partir da API do twitter e dentro de um texto em pdf
+  * KMeans
+    * Esse programa utiliza o dataset iris e faz a clusterização desses dados por meio do KMeans e plota em gráfico os resultados obtidos.
+  * PCA
+    * Esse programa faz a comparação da acurária da análise de um dataset com e sem o PCA(Principal Component Analysis).
+  * Redes Neurais
+    * Esse programa faz a comparação da análise de um dataset utilizando uma Rede Neural e uma Regressão Logística.
+  * Regressão Linear
+    * Nesse programa foi feita a implemenação do método de Regressão Linear e do Gradiente Descendente para análise de equações.Os resulados são mostrados em gráfico.
